@@ -45,31 +45,31 @@
             <div id="tips" class="mt-10 pt-10 max-w-4xl mx-auto md:mt-28">
                 <h1 class="font-bold text-2xl text-center md:text-3xl ">Tips</h1>
                 <div class="grid grid-cols-1 md:grid-cols-4 mt-8 gap-6">
-                    <div class="bg-white rounded-lg shadow-xl py-3 px-4 md:col-span-2 hover:bg-sky-300 hover:shadow-2xl hover:scale-105 transition-all duration-300">
+                    <div class="bg-white rounded-lg shadow-xl py-3 px-4 md:col-span-2 hover:bg-sky-300 hover:shadow-2xl">
                         <h2 class="text-base font-semibold">Set Clear Financial Goals</h2>
                         <p class="text-sm mt-0.5">Define short-term and long-term goals to provide motivation for your budgeting efforts.</p>
                     </div>                    
-                    <div class="bg-white rounded-lg shadow-xl py-3 px-4 md:col-span-2 hover:bg-sky-300 hover:shadow-2xl hover:scale-105 transition-all duration-300">
+                    <div class="bg-white rounded-lg shadow-xl py-3 px-4 md:col-span-2 hover:bg-sky-300 hover:shadow-2xl">
                         <h2 class="text-base font-semibold">Track Your Income and Expenses</h2>
                         <p class="text-sm mt-0.5">Keep a record of all income sources and every expense to understand your cash flow.</p>
                     </div>                    
-                    <div class="bg-white rounded-lg shadow-xl py-3 px-4 md:col-span-2 hover:bg-sky-300 hover:shadow-2xl hover:scale-105 transition-all duration-300">
+                    <div class="bg-white rounded-lg shadow-xl py-3 px-4 md:col-span-2 hover:bg-sky-300 hover:shadow-2xl">
                         <h2 class="text-base font-semibold">Create a Realistic Budget</h2>
                         <p class="text-sm mt-0.5">Develop a budget that reflects your actual income and expenses.</p>
                     </div>                   
-                    <div class="bg-white rounded-lg shadow-xl py-3 px-4 md:col-span-2 hover:bg-sky-300 hover:shadow-2xl hover:scale-105 transition-all duration-300">
+                    <div class="bg-white rounded-lg shadow-xl py-3 px-4 md:col-span-2 hover:bg-sky-300 hover:shadow-2xl">
                         <h2 class="text-base font-semibold">Prioritize Savings</h2>
                         <p class="text-sm mt-0.5">Treat saving as a non-negotiable expense by allocating a specific percentage of your income to savings.</p>
                     </div>                   
-                    <div class="bg-white rounded-lg shadow-xl py-3 px-4 md:col-span-2 hover:bg-sky-300 hover:shadow-2xl hover:scale-105 transition-all duration-300">
+                    <div class="bg-white rounded-lg shadow-xl py-3 px-4 md:col-span-2 hover:bg-sky-300 hover:shadow-2xl">
                         <h2 class="text-base font-semibold">Review and Adjust Regularly</h2>
                         <p class="text-sm mt-0.5">Periodically review your budget to ensure it aligns with your financial goals and lifestyle changes.</p>
                     </div>
-                    <div class="bg-white rounded-lg shadow-xl py-3 px-4 md:col-span-2 hover:bg-sky-300 hover:shadow-2xl hover:scale-105 transition-all duration-300">
+                    <div class="bg-white rounded-lg shadow-xl py-3 px-4 md:col-span-2 hover:bg-sky-300 hover:shadow-2xl">
                         <h2 class="text-base font-semibold">Cut Unnecessary Expenses</h2>
                         <p class="text-sm mt-0.5">Identify and eliminate non-essential expenses to save money.</p>
                     </div>
-                    <div class="bg-white rounded-lg shadow-xl py-3 px-4 md:col-span-2 hover:bg-sky-300 hover:shadow-2xl hover:scale-105 transition-all duration-300 md:col-start-2">
+                    <div class="bg-white rounded-lg shadow-xl py-3 px-4 md:col-span-2 hover:bg-sky-300 hover:shadow-2xl md:col-start-2">
                         <h2 class="text-base font-semibold">Utilize Budgeting Tools</h2>
                         <p class="text-sm mt-0.5">Use budgeting apps or spreadsheets to help organize your finances more effectively.</p>
                     </div>           
